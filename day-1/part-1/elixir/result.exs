@@ -1,1 +1,1 @@
-Depth.count_increase(File.read('../input.txt')) |> IO.inspect
+Depth.count_increase(File.read('../../input.txt')) |> IO.inspect

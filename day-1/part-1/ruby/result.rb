@@ -1,3 +1,3 @@
 require_relative 'depth'
 
-puts Depth.new.count_increase(File.read('../input.txt'))
+puts Depth.new.count_increase(File.read('../../input.txt'))
